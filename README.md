@@ -1,5 +1,11 @@
 # test2
+Temporary merge branch 1
+A new Flutter project.
+A new Flutter project.
+A new Flutter project.
+A new Flutter project.
 
+Temporary merge branch 2
 A new Flutter project. adding more detail reference by test purpose
 
 adding more content.
